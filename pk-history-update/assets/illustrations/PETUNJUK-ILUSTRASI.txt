@@ -1,0 +1,4 @@
+ILUSTRASI HALAMAN UTAMA
+Letakkan ilustrasi kebun utama dengan nama hero-garden.png di folder ini.
+Saran: PNG transparan, landscape, ukuran sekitar 900 x 700 px.
+Background tambahan hero-background.png opsional.

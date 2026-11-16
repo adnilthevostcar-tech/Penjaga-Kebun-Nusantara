@@ -1,0 +1,12 @@
+FOLDER KOSTUM PROFIL
+Simpan gambar kostum profil di folder ini.
+
+Nama file yang sudah disiapkan:
+- default.png
+- kostum-1.png
+- kostum-2.png
+- kostum-3.png
+
+Jika ingin mengganti kostum, cukup timpa gambar dengan nama file yang sama.
+Disarankan menggunakan gambar PNG persegi (misalnya 512 x 512 px) dengan karakter berada di tengah.
+Harga kostum diatur pada array COSTUMES di js/game.js.

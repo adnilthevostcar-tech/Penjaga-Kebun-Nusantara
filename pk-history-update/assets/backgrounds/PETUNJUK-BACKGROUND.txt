@@ -1,0 +1,10 @@
+BACKGROUND WAKTU PERMAINAN
+Masukkan gambar buatan sendiri ke folder ini dengan nama:
+- morning.png     = suasana pagi
+- noon.png        = suasana siang
+- afternoon.png   = suasana sore
+- night.png       = suasana malam
+
+Saran ukuran: 1920 x 650 px, landscape.
+Format PNG/JPG. Gunakan gambar yang cukup terang/kontras agar teks tetap terbaca.
+Jika gambar belum ada, game tetap memakai background gradasi CSS.
